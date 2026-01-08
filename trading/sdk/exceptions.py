@@ -1,0 +1,2 @@
+class TradingSDKException(Exception):
+    pass
